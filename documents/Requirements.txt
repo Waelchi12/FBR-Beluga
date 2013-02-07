@@ -1,0 +1,17 @@
+FBR-Beluga Requirements
+
+Tier 1 - Critical
+=======================
+- Song title
+- Song artist
+- On-screen buttons with keyboard shortcuts
+    - Play
+    - Pause
+    - Next
+    - Previous
+- Play particular playlist
+
+Tier 2 - Good to have 
+=======================
+- Album art
+- Song time status

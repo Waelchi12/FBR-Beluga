@@ -1,0 +1,20 @@
+FBR-Beluga Rollout
+
+1) Foobar API library
+    - Play
+    - Pause
+    - Next
+    - Previous
+    - Get info
+
+2) UI Layout
+    - Song title
+    - Song artist
+    - Control buttons
+
+3) Interaction library
+    - Click handlers
+    - DOM updates
+    - Keyboard shortcuts
+
+
