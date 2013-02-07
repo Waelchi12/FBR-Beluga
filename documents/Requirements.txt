@@ -15,3 +15,4 @@ Tier 2 - Good to have
 =======================
 - Album art
 - Song time status
+- Volume control
