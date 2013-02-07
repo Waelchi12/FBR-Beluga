@@ -8,8 +8,8 @@
         return moduleName === "../../dependencies/almond" ? contents : wrappedContents;
     },
     name: "../../dependencies/almond",
-    include: ["defaultName"], // Main file
-    insertRequire: ["defaultName"], // Auto-load main file
-    out: "../bin/output.min.js",
+    include: ["fbControl"], // Main file
+    insertRequire: ["fbControl"], // Auto-load main file
+    out: "../bin/fbControl.min.js",
     wrap: true
 }
